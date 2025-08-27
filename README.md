@@ -1,4 +1,4 @@
-# handygo
+# handygo [Work in Progress]
 
 **Lightweight helpers for Go — small, composable functions that make everyday coding faster and easier.**
 
